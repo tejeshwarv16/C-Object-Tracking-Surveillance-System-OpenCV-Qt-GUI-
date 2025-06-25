@@ -1,0 +1,9 @@
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/ObjectTrackingApp.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/edit_cache.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/rebuild_cache.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/list_install_components.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/install.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/install/local.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/install/strip.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/ObjectTrackingApp_autogen_timestamp_deps.dir
+D:/projects/KPIT/Object Tracking project where changes can be made/build/CMakeFiles/ObjectTrackingApp_autogen.dir

@@ -1,0 +1,1 @@
+-I"D:/projects/KPIT/Object Tracking project where changes can be made/build/ObjectTrackingApp_autogen/include" -isystem C:/msys64/mingw64/include/opencv4 -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem "C:/msys64/mingw64/share/qt5/mkspecs/win32-g++"

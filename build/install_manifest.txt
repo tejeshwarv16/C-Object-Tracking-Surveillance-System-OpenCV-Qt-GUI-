@@ -1,0 +1,9 @@
+D:/projects/KPIT/Object Tracking project where changes can be made/install/bin/ObjectTrackingApp.exe
+D:/projects/KPIT/Object Tracking project where changes can be made/install/data/coco.names
+D:/projects/KPIT/Object Tracking project where changes can be made/install/data/haarcascade_frontalface_alt.xml
+D:/projects/KPIT/Object Tracking project where changes can be made/install/data/yolov4-tiny.cfg
+D:/projects/KPIT/Object Tracking project where changes can be made/install/data/yolov4-tiny.weights
+D:/projects/KPIT/Object Tracking project where changes can be made/install/bin/platforms/qdirect2d.dll
+D:/projects/KPIT/Object Tracking project where changes can be made/install/bin/platforms/qminimal.dll
+D:/projects/KPIT/Object Tracking project where changes can be made/install/bin/platforms/qoffscreen.dll
+D:/projects/KPIT/Object Tracking project where changes can be made/install/bin/platforms/qwindows.dll
